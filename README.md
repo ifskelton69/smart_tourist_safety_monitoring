@@ -1,1 +1,0 @@
-# smart_tourist_safety_monitoring
